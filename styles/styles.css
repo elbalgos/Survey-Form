@@ -2,7 +2,7 @@ body {
     font-size: 15px;
     font-family: 'Courier New', 'Courier New', Courier, monospace;
     /* background-image: linear-gradient(rgba(100,100,230,0.5), rgba(100,100,240,0.6)), image(); */
-    background-image: url("/freeCodeCamp/SurveryForm/img/imga380.jpg");
+    background-image: url("/img/imga380.jpg");
     background-position: center;
     background-size: cover;
   }
